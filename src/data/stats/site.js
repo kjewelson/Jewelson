@@ -8,17 +8,18 @@ const data = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/kjewelson/Jewelson/network',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/kjewelson/Jewelson/network',
+    // link: 'https://github.com/mldangelo/personal-site/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    link: 'https://github.com/kjewelson/Jewelson/network',
   },
   {
     label: 'Number of spoons',

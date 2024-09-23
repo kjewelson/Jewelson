@@ -12,9 +12,9 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Jewelson Samuel Kingsley</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:kjewelson@gmail.com">kjewelson@gmail.com</a>
         </p>
       </header>
     </section>
@@ -22,8 +22,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
+        Hi, I&apos;m Jewelson. I am a{' '}
+        <a href="https://mmu.ac.uk/">Manchester Metropolitan University</a> graduate, UK
         alumnus, and the co-founder and CTO of{' '}
         <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
         was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
@@ -48,7 +48,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Jewelson Kingsley <Link to="/">kjs.dev</Link>.
       </p>
     </section>
   </section>
