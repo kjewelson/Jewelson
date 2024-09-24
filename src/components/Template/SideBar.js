@@ -12,7 +12,7 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Jewelson</h2>
+        <h2>Jewelson Samuel Kingsley</h2>
         <p>
           <a href="mailto:kjewelson@gmail.com">kjewelson@gmail.com</a>
         </p>
@@ -48,7 +48,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Jewelson Kingsley <Link to="/">kjs.dev</Link>.
+        &copy; Jewelson <Link to="/">kjs.dev</Link>.
       </p>
     </section>
   </section>
