@@ -21,7 +21,7 @@ const work = [
     and developed high-performance applications using .NET, while ensuring quality through automated testing and collaborating with stakeholders to deliver impactful solutions.`,
     highlights: [
       'Designed and implemented Azure Functions for radiographic image processing in BP refineries, leveraging Azure DevOps to build and deploy CI/CD pipelines, ensuring efficient and scalable solutions',
-      "Developed messaging queues and event-driven architectures using Azure Service Bus, Amazon SQS, and SNS, improving real-time communication for BP's systems",
+      "Developed messaging queues and event-driven architectures using Azure Service Bus, Amazon SQS, and SNS, improving real-time communication for BP's systems.",
       'Modernized over 50+ legacy SOAP-based web services by transforming them into RESTful APIs, integrated with React-based UIs for enhanced performance and user experience in trade capture applications.',
       'Collaborated with Royal London’s pension and insurance teams to resolve critical UAT issues in an N-Tier ASP.NET Core MVC application, leading to a successful deployment.',
       'Implemented automated testing frameworks using TDD and BDD methodologies, utilizing C# NUnit, and SpecFlow to validate business requirements and ensure quality for an insurance platform.',
