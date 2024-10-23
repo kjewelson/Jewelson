@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import ContactIcons from '../Contact/ContactIcons';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
@@ -22,14 +21,11 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Jewelson. I am a{' '}
-        <a href="https://mmu.ac.uk/">Manchester Metropolitan University</a> graduate, UK
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I&apos;m Jewelson. I&apos;m a Sr. Developer with 8 years of
+        experience in C#, .NET Core, Azure, and AWS, specializing in modernizing
+        systems, building scalable APIs, and optimizing CI/CD.
       </p>
+
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? (
