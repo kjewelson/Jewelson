@@ -1,13 +1,13 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'React',
-    competency: 4,
-    category: ['Web Development', 'Javascript'],
+    competency: 3,
+    category: ['Web Development', 'Javascript', 'Languages'],
   },
   {
     title: 'Bash',
@@ -16,18 +16,88 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Tools'],
   },
   {
     title: 'MongoDB',
-    competency: 3,
+    competency: 2.5,
     category: ['Web Development', 'Databases'],
   },
   {
     title: 'PostgreSQL/SQLite3/SQL/Redshift',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
+  },
+  {
+    title: 'Azure App Services',
+    competency: 4,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Azure Functions',
+    competency: 4,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Azure API Management',
+    competency: 3,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Service Bus',
+    competency: 3,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Container Apps',
+    competency: 2.5,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Virtual Machines',
+    competency: 2,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Key Vault',
+    competency: 4,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Storage Account',
+    competency: 4,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'CosmosDB',
+    competency: 3.5,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'Application Insights',
+    competency: 3,
+    category: ['Azure', 'Cloud'],
+  },
+  {
+    title: 'MS SQLSERVER',
+    competency: 4.5,
+    category: ['MS SQLSERVER', 'Databases', 'SQL/No SQL'],
+  },
+  {
+    title: 'Stored Procedure',
+    competency: 4.5,
+    category: ['MS SQLSERVER', 'Databases', 'SQL/No SQL'],
+  },
+  {
+    title: 'TSQL Functions',
+    competency: 4,
+    category: ['MS SQLSERVER', 'Databases', 'SQL/No SQL'],
+  },
+  {
+    title: 'Query Performance Tuning',
+    competency: 4,
+    category: ['MS SQLSERVER', 'Databases', 'SQL/No SQL'],
   },
   {
     title: 'Redis',
@@ -36,28 +106,88 @@ const skills = [
   },
   {
     title: 'RESTfulAPI',
+    competency: 4,
+    category: ['Web Development', 'C# .NET'],
+  },
+  {
+    title: 'Entity Framework Core',
+    competency: 3.5,
+    category: ['C# .NET'],
+  },
+  {
+    title: '.NET Core',
+    competency: 4,
+    category: ['C# .NET'],
+  },
+  {
+    title: 'C#',
+    competency: 4.6,
+    category: ['Web Development', 'C# .NET', 'Languages'],
+  },
+  {
+    title: 'LINQ',
+    competency: 4,
+    category: ['C# .NET'],
+  },
+  {
+    title: '.NET 5+',
+    competency: 4,
+    category: ['C# .NET'],
+  },
+  {
+    title: 'ASP.NET core MVC',
+    competency: 4.25,
+    category: ['Web Development', 'C# .NET'],
+  },
+  {
+    title: 'WCF',
     competency: 3,
-    category: ['Web Development', 'C#'],
+    category: ['C# .NET'],
+  },
+  {
+    title: 'ASP.NET Web Forms',
+    competency: 3,
+    category: ['C# .NET'],
   },
   {
     title: 'Git',
     competency: 3,
-    category: ['Tools'],
+    category: ['Tools', 'Version Control'],
+  },
+  {
+    title: 'TFS',
+    competency: 3,
+    category: ['Tools', 'Version Control'],
   },
   {
     title: 'Kubernetes',
     competency: 2,
-    category: ['Tools', 'Data Engineering'],
+    category: ['Tools', 'Deployment'],
   },
   {
     title: 'AWS',
     competency: 3,
-    category: ['Tools', 'Web Development'],
+    category: ['Tools', 'Cloud'],
   },
   {
     title: 'Docker',
     competency: 2,
-    category: ['Tools', 'Data Engineering'],
+    category: ['Tools', 'Deployment'],
+  },
+  {
+    title: 'Azure Devops',
+    competency: 3.5,
+    category: ['Tools', 'Deployment', 'Azure'],
+  },
+  {
+    title: 'Azure CI/CD',
+    competency: 3.5,
+    category: ['Tools', 'Deployment', 'Azure'],
+  },
+  {
+    title: 'Github Pages',
+    competency: 3,
+    category: ['Web Development', 'Tools', 'Deployment'],
   },
   {
     title: 'AWS Lambda',
@@ -100,14 +230,9 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'R',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
     title: 'Data Visualization',
     competency: 3,
-    category: ['Data Science', 'Javascript'],
+    category: ['Data Science'],
   },
   {
     title: 'GraphQL',
@@ -116,7 +241,7 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 5,
+    competency: 3,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
@@ -126,7 +251,7 @@ const skills = [
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 3,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
