@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jewelson/static/css/main.3fc8ac9a.css",
-    "main.js": "/Jewelson/static/js/main.0ab8285c.js",
+    "main.js": "/Jewelson/static/js/main.073ef72b.js",
     "static/js/818.27ad003b.chunk.js": "/Jewelson/static/js/818.27ad003b.chunk.js",
     "static/js/996.3caf6993.chunk.js": "/Jewelson/static/js/996.3caf6993.chunk.js",
     "static/js/807.dd77f2a8.chunk.js": "/Jewelson/static/js/807.dd77f2a8.chunk.js",
     "static/js/900.815301c4.chunk.js": "/Jewelson/static/js/900.815301c4.chunk.js",
     "static/js/899.9a34fd29.chunk.js": "/Jewelson/static/js/899.9a34fd29.chunk.js",
-    "static/js/295.574c834b.chunk.js": "/Jewelson/static/js/295.574c834b.chunk.js",
+    "static/js/295.36a00ca4.chunk.js": "/Jewelson/static/js/295.36a00ca4.chunk.js",
     "static/js/362.da96d3f5.chunk.js": "/Jewelson/static/js/362.da96d3f5.chunk.js",
     "static/js/147.48198676.chunk.js": "/Jewelson/static/js/147.48198676.chunk.js",
     "static/js/27.f63df6df.chunk.js": "/Jewelson/static/js/27.f63df6df.chunk.js",
@@ -15,19 +15,19 @@
     "static/media/about.md": "/Jewelson/static/media/about.ab39fabd9c9fa8d6313a.md",
     "index.html": "/Jewelson/index.html",
     "main.3fc8ac9a.css.map": "/Jewelson/static/css/main.3fc8ac9a.css.map",
-    "main.0ab8285c.js.map": "/Jewelson/static/js/main.0ab8285c.js.map",
+    "main.073ef72b.js.map": "/Jewelson/static/js/main.073ef72b.js.map",
     "818.27ad003b.chunk.js.map": "/Jewelson/static/js/818.27ad003b.chunk.js.map",
     "996.3caf6993.chunk.js.map": "/Jewelson/static/js/996.3caf6993.chunk.js.map",
     "807.dd77f2a8.chunk.js.map": "/Jewelson/static/js/807.dd77f2a8.chunk.js.map",
     "900.815301c4.chunk.js.map": "/Jewelson/static/js/900.815301c4.chunk.js.map",
     "899.9a34fd29.chunk.js.map": "/Jewelson/static/js/899.9a34fd29.chunk.js.map",
-    "295.574c834b.chunk.js.map": "/Jewelson/static/js/295.574c834b.chunk.js.map",
+    "295.36a00ca4.chunk.js.map": "/Jewelson/static/js/295.36a00ca4.chunk.js.map",
     "362.da96d3f5.chunk.js.map": "/Jewelson/static/js/362.da96d3f5.chunk.js.map",
     "147.48198676.chunk.js.map": "/Jewelson/static/js/147.48198676.chunk.js.map",
     "574.d0221ff1.chunk.js.map": "/Jewelson/static/js/574.d0221ff1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fc8ac9a.css",
-    "static/js/main.0ab8285c.js"
+    "static/js/main.073ef72b.js"
   ]
 }
