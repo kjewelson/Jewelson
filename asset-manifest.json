@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jewelson/static/css/main.3fc8ac9a.css",
-    "main.js": "/Jewelson/static/js/main.84043c52.js",
+    "main.js": "/Jewelson/static/js/main.9c0b7722.js",
     "static/js/818.27ad003b.chunk.js": "/Jewelson/static/js/818.27ad003b.chunk.js",
     "static/js/996.3caf6993.chunk.js": "/Jewelson/static/js/996.3caf6993.chunk.js",
     "static/js/807.75ee60df.chunk.js": "/Jewelson/static/js/807.75ee60df.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/295.574c834b.chunk.js": "/Jewelson/static/js/295.574c834b.chunk.js",
     "static/js/362.da96d3f5.chunk.js": "/Jewelson/static/js/362.da96d3f5.chunk.js",
     "static/js/147.48198676.chunk.js": "/Jewelson/static/js/147.48198676.chunk.js",
-    "static/js/27.ad861bae.chunk.js": "/Jewelson/static/js/27.ad861bae.chunk.js",
+    "static/js/27.f63df6df.chunk.js": "/Jewelson/static/js/27.f63df6df.chunk.js",
     "static/js/574.d0221ff1.chunk.js": "/Jewelson/static/js/574.d0221ff1.chunk.js",
-    "static/media/about.md": "/Jewelson/static/media/about.160e7ce848c67b4a1fe2.md",
+    "static/media/about.md": "/Jewelson/static/media/about.ab39fabd9c9fa8d6313a.md",
     "index.html": "/Jewelson/index.html",
     "main.3fc8ac9a.css.map": "/Jewelson/static/css/main.3fc8ac9a.css.map",
-    "main.84043c52.js.map": "/Jewelson/static/js/main.84043c52.js.map",
+    "main.9c0b7722.js.map": "/Jewelson/static/js/main.9c0b7722.js.map",
     "818.27ad003b.chunk.js.map": "/Jewelson/static/js/818.27ad003b.chunk.js.map",
     "996.3caf6993.chunk.js.map": "/Jewelson/static/js/996.3caf6993.chunk.js.map",
     "807.75ee60df.chunk.js.map": "/Jewelson/static/js/807.75ee60df.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.3fc8ac9a.css",
-    "static/js/main.84043c52.js"
+    "static/js/main.9c0b7722.js"
   ]
 }
