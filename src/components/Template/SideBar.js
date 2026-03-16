@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import ContactIcons from '../Contact/ContactIcons';
+import React from "react";
+import { Link } from "react-router-dom";
+import ContactIcons from "../Contact/ContactIcons";
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
@@ -21,14 +21,15 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Jewelson. I&apos;m a Sr. Developer with 8 years of
+        Hi, I&apos;m Jewelson. I&apos;m a Sr. Developer with 8+ years of
         experience in C#, .NET Core, Azure, and AWS, specializing in modernizing
-        systems, building scalable APIs, and optimizing CI/CD.
+        systems, building scalable APIs, creating interactive UI, and optimizing
+        CI/CD.
       </p>
 
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? (
+          {!window.location.pathname.includes("/resume") ? (
             <Link to="/resume" className="button">
               Learn More
             </Link>
